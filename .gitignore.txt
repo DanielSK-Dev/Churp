@@ -1,0 +1,42 @@
+# ====================================
+# Python / PyCharm defaults
+# ====================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+
+# IDE / Editor settings
+.idea/
+.vscode/
+*.swp
+
+# Byte-compiled and cache files
+*.log
+*.tmp
+
+# ====================================
+# Project-specific ignores
+# ====================================
+
+# Local test files
+/tests/
+!tests/README.md  # Keep README if it exists
+
+# Optional: Ignore generated artifacts
+*.bak
+*.old
+*.orig
+
+# ====================================
+# OS files
+# ====================================
+.DS_Store
+Thumbs.db
