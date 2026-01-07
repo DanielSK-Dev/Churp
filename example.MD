@@ -1,4 +1,4 @@
-CHURP EXAMPLE (example.txt) — Simple P2P Messaging
+CHURP EXAMPLE — Simple P2P Messaging
 =================================================
 
 This example shows a slightly more complete two-user P2P messaging flow with:
